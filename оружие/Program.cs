@@ -9,6 +9,7 @@ namespace оружие
     class Program
     {
         private bool gg;
+        public int ffff;
         public void Main()
         {
 
