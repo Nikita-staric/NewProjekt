@@ -1,0 +1,14 @@
+C:\Users\Nikita\Desktop\Foto\оружие\оружие\bin\Debug\оружие.exe.config
+C:\Users\Nikita\Desktop\Foto\оружие\оружие\bin\Debug\оружие.exe
+C:\Users\Nikita\Desktop\Foto\оружие\оружие\bin\Debug\оружие.pdb
+C:\Users\Nikita\Desktop\Foto\оружие\оружие\obj\Debug\оружие.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\Foto\оружие\оружие\obj\Debug\оружие.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\Foto\оружие\оружие\obj\Debug\оружие.exe
+C:\Users\Nikita\Desktop\Foto\оружие\оружие\obj\Debug\оружие.pdb
+C:\Users\Nikita\Desktop\C#\оружие\оружие\bin\Debug\оружие.exe.config
+C:\Users\Nikita\Desktop\C#\оружие\оружие\bin\Debug\оружие.exe
+C:\Users\Nikita\Desktop\C#\оружие\оружие\bin\Debug\оружие.pdb
+C:\Users\Nikita\Desktop\C#\оружие\оружие\obj\Debug\оружие.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\C#\оружие\оружие\obj\Debug\оружие.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\C#\оружие\оружие\obj\Debug\оружие.exe
+C:\Users\Nikita\Desktop\C#\оружие\оружие\obj\Debug\оружие.pdb
